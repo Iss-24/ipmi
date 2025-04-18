@@ -3,7 +3,7 @@ size( 800, 400 );
 PImage MiObjeto;
 MiObjeto = loadImage ("MiObjeto.jpg");
 image (MiObjeto, 0,0, 400, 400);
-//base - image (MiObjeto, 400,0, 400, 400);
+//
 //A.1
 color c2 = #505C76;
 fill (c2);
